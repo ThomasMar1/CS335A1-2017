@@ -5,4 +5,7 @@ Fron-end Book and Blu-ray website that consumes a RESTful back-end web server (W
 
 My newer version for Assignment 5 available 
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
+- <a href="https://github.com/ThomasMar1/LaBoutiqueCassee">Source Code for updated new version.</a>
+
+<a href="https://thomasmar1.github.io/LaBoutiqueCassee">Live Build.</a>
+
