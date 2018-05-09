@@ -7,5 +7,5 @@ My newer version for Assignment 5 available
 
 - <a href="https://github.com/ThomasMar1/LaBoutiqueCassee">Source Code for updated new version.</a>
 
-<a href="https://thomasmar1.github.io/LaBoutiqueCassee">Live Build.</a>
+- <a href="https://thomasmar1.github.io/LaBoutiqueCassee">Live Build.</a>
 
